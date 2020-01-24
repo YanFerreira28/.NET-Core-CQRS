@@ -1,0 +1,12 @@
+C:\Users\Code\source\repos\ProjetoCQRS.Domain\ProjetoCQRS.Infrastructure\bin\Debug\netcoreapp2.1\ProjetoCQRS.Infrastructure.deps.json
+C:\Users\Code\source\repos\ProjetoCQRS.Domain\ProjetoCQRS.Infrastructure\bin\Debug\netcoreapp2.1\ProjetoCQRS.Infrastructure.dll
+C:\Users\Code\source\repos\ProjetoCQRS.Domain\ProjetoCQRS.Infrastructure\obj\Debug\netcoreapp2.1\ProjetoCQRS.Infrastructure.csprojAssemblyReference.cache
+C:\Users\Code\source\repos\ProjetoCQRS.Domain\ProjetoCQRS.Infrastructure\obj\Debug\netcoreapp2.1\ProjetoCQRS.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Code\source\repos\ProjetoCQRS.Domain\ProjetoCQRS.Infrastructure\obj\Debug\netcoreapp2.1\ProjetoCQRS.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Code\source\repos\ProjetoCQRS.Domain\ProjetoCQRS.Infrastructure\obj\Debug\netcoreapp2.1\ProjetoCQRS.Infrastructure.AssemblyInfo.cs
+C:\Users\Code\source\repos\ProjetoCQRS.Domain\ProjetoCQRS.Infrastructure\bin\Debug\netcoreapp2.1\ProjetoCQRS.Domain.dll
+C:\Users\Code\source\repos\ProjetoCQRS.Domain\ProjetoCQRS.Infrastructure\bin\Debug\netcoreapp2.1\ProjetoCQRS.Infrastructure.pdb
+C:\Users\Code\source\repos\ProjetoCQRS.Domain\ProjetoCQRS.Infrastructure\bin\Debug\netcoreapp2.1\ProjetoCQRS.Domain.pdb
+C:\Users\Code\source\repos\ProjetoCQRS.Domain\ProjetoCQRS.Infrastructure\obj\Debug\netcoreapp2.1\ProjetoCQRS.Infrastructure.csproj.CopyComplete
+C:\Users\Code\source\repos\ProjetoCQRS.Domain\ProjetoCQRS.Infrastructure\obj\Debug\netcoreapp2.1\ProjetoCQRS.Infrastructure.dll
+C:\Users\Code\source\repos\ProjetoCQRS.Domain\ProjetoCQRS.Infrastructure\obj\Debug\netcoreapp2.1\ProjetoCQRS.Infrastructure.pdb

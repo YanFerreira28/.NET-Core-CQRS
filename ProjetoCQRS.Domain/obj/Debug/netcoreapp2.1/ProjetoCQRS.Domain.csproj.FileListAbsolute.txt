@@ -1,0 +1,9 @@
+C:\Users\Code\source\repos\ProjetoCQRS.Domain\ProjetoCQRS.Domain\obj\Debug\netcoreapp2.1\ProjetoCQRS.Domain.csprojAssemblyReference.cache
+C:\Users\Code\source\repos\ProjetoCQRS.Domain\ProjetoCQRS.Domain\obj\Debug\netcoreapp2.1\ProjetoCQRS.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Code\source\repos\ProjetoCQRS.Domain\ProjetoCQRS.Domain\obj\Debug\netcoreapp2.1\ProjetoCQRS.Domain.AssemblyInfoInputs.cache
+C:\Users\Code\source\repos\ProjetoCQRS.Domain\ProjetoCQRS.Domain\obj\Debug\netcoreapp2.1\ProjetoCQRS.Domain.AssemblyInfo.cs
+C:\Users\Code\source\repos\ProjetoCQRS.Domain\ProjetoCQRS.Domain\bin\Debug\netcoreapp2.1\ProjetoCQRS.Domain.deps.json
+C:\Users\Code\source\repos\ProjetoCQRS.Domain\ProjetoCQRS.Domain\bin\Debug\netcoreapp2.1\ProjetoCQRS.Domain.dll
+C:\Users\Code\source\repos\ProjetoCQRS.Domain\ProjetoCQRS.Domain\bin\Debug\netcoreapp2.1\ProjetoCQRS.Domain.pdb
+C:\Users\Code\source\repos\ProjetoCQRS.Domain\ProjetoCQRS.Domain\obj\Debug\netcoreapp2.1\ProjetoCQRS.Domain.dll
+C:\Users\Code\source\repos\ProjetoCQRS.Domain\ProjetoCQRS.Domain\obj\Debug\netcoreapp2.1\ProjetoCQRS.Domain.pdb
